@@ -1,0 +1,24 @@
+{
+  "name": "livereload-express",
+  "version": "1.0.0",
+  "description": "Add live reload feature to your nodejs express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virat21/livereload-express.git"
+  },
+  "keywords": [
+    "livereload",
+    "nodejs",
+    "express"
+  ],
+  "author": "Virat Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virat21/livereload-express/issues"
+  },
+  "homepage": "https://github.com/virat21/livereload-express#readme"
+}
