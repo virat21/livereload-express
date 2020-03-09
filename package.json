@@ -1,6 +1,6 @@
 {
   "name": "livereload-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add live reload feature to your nodejs express project",
   "main": "index.js",
   "scripts": {
