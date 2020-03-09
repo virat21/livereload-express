@@ -1,6 +1,6 @@
 # Live Reload Express 🚀
 
-add live reload to your expressjs project. this make your development less clicky and less `F5`
+add live reload to your expressjs project. this makes your development less clicky and less `F5` presses
 
 Usage
 ```
