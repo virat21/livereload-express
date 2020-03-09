@@ -1,9 +1,3 @@
-# Live Reload Express 🚀
-
-add live reload to your expressjs project. this make your development less clicky and less `F5`
-
-Usage
-```
 const express = require("express");
 const app = express();
 const port = 3000;
@@ -16,4 +10,3 @@ LiveReloadExpress.listen(port, () =>
     `Example app listening on port ${port}!`
   )
 );
-```
