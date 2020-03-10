@@ -1,6 +1,6 @@
 {
   "name": "livereload-express",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add live reload feature to your nodejs express project",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/virat21/livereload-express/issues"
   },
-  "homepage": "https://github.com/virat21/livereload-express",
+  "homepage": "https://github.com/virat21/livereload-express#readme",
   "dependencies": {
     "debug": "^4.1.1",
     "depd": "^2.0.0",
